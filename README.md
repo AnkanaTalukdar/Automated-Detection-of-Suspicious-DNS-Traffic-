@@ -33,7 +33,7 @@ Modern malware uses DGAs to generate thousands of random domains to communicate 
 **•Pandas:** For data organization and reporting.
 
 **•TLDExtract:** To isolate the "core" domain from subdomains.
-
+**Evidence:** fg1
 
 
 ###### **3.2 Detection Logic: Shannon Entropy**
@@ -76,7 +76,7 @@ The system was tested against a mixture of known safe traffic and simulated mali
 
 The system successfully isolated the high-entropy malicious string. However, it flagged bankofamerica.com as suspicious due to its length. This highlights the need for a Whitelist in professional deployments to reduce "False Positives."
 
-
+**Evidence:** fg2, fg3, fg4
 
 ##### **5. Deployment and Countermeasures**
 
