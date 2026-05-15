@@ -33,6 +33,7 @@ Modern malware uses DGAs to generate thousands of random domains to communicate 
 **•Pandas:** For data organization and reporting.
 
 **•TLDExtract:** To isolate the "core" domain from subdomains.
+
 **Evidence:** fg1
 
 
